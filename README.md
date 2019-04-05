@@ -16,7 +16,7 @@
 
 ***
 
-## Resources
+#### Resources
 - Theory: <https://www.google.com/design/spec/material-design/introduction.html>
 - Download Page: <https://www.creative-tim.com/product/material-kit>
 - Documentation: <https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html>
