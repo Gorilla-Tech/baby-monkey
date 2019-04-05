@@ -14,7 +14,7 @@
   <a href="http://bit.ly/2YZ8qeS" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YZ8qeS" alt="material-icons"></a>
   <a href="http://bit.ly/2Uj2Ghk" rel="noopener" target="_blank"><img width="250" src="http://bit.ly/2Uj2Ghk" alt="material-icons"></a><a href="http://bit.ly/2YRgZYU" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YRgZYU" alt="material-icons"></a></p>
 
-
+***
 
 ## Resources
 - Theory: <https://www.google.com/design/spec/material-design/introduction.html>
