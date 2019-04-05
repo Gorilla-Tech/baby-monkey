@@ -1,2 +1,3 @@
-# baby-monkey
-six basic features: See - Sockets - Grasping Hands - Nails - Fingerprints - Genius
+<p align="center">
+  <a href="http://bit.ly/gorilla_tech" rel="noopener" target="_blank"><img width="350" src="http://bit.ly/gorilla_tech" alt="Gorilla-Tech logo"></a></p>
+</p>
