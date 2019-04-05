@@ -8,10 +8,18 @@
 
 [Baby Monkey](http://gorillatech.russs.tech/) components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
-###
+***
+
 <p align="left">
   <a href="http://bit.ly/2YZ8qeS" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YZ8qeS" alt="material-icons"></a>
   <a href="http://bit.ly/2Uj2Ghk" rel="noopener" target="_blank"><img width="250" src="http://bit.ly/2Uj2Ghk" alt="material-icons"></a><a href="http://bit.ly/2YRgZYU" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YRgZYU" alt="material-icons"></a></p>
 
 
 
+## Resources
+- Theory: <https://www.google.com/design/spec/material-design/introduction.html>
+- Download Page: <https://www.creative-tim.com/product/material-kit>
+- Documentation: <https://demos.creative-tim.com/material-kit/docs/2.1/getting-started/introduction.html>
+- License Agreement: <https://www.creative-tim.com/license>
+- Support: <https://www.creative-tim.com/contact-us>
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-kit/issues)
