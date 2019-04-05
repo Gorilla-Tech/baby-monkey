@@ -9,6 +9,9 @@
 [Baby Monkey](http://gorillatech.russs.tech/) components that implement [Google's Material Design](https://www.google.com/design/spec/material-design/introduction.html).
 
 ###
+<p align="left">
+  <a href="http://bit.ly/2YZ8qeS" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YZ8qeS" alt="material-icons"></a>
+  <a href="http://bit.ly/2Uj2Ghk" rel="noopener" target="_blank"><img width="250" src="http://bit.ly/2Uj2Ghk" alt="material-icons"></a><a href="http://bit.ly/2YRgZYU" rel="noopener" target="_blank"><img width="300" src="http://bit.ly/2YRgZYU" alt="material-icons"></a></p>
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard)[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-angular2)
+
 
